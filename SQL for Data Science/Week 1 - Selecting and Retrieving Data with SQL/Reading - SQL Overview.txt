@@ -1,0 +1,8 @@
+This module focuses on introduction of the world of SQL and to get started with a few simple querying techniques. 
+Here are a few good, quality overviews of SQL that go into a little bit more depth.
+Check out and review one or more of these resources.
+
+
+- What is SQL and How is it Used? => https://www.thebalance.com/what-is-sql-and-uses-2071909
+- NTC Hosting: Structured Query Language => https://www.ntchosting.com/encyclopedia/databases/structured-query-language/
+- SQLite Tutorial => https://www.tutorialspoint.com/sqlite/index.htm
