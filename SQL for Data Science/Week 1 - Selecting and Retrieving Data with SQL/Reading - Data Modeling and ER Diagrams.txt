@@ -1,6 +1,5 @@
-We introduced ER diagrams and the concept of database modeling in this module. 
-Naturally, these are deep topics and we barely scratched the surface in our lecture videos. 
-I encourage you to review some of the resources below to learn more about these topics in more depth.
+ER diagrams and the concept of database modeling in this module are very deep topics.
+Review some of the resources below to learn more about these topics in more depth.
 
 - Entity Relationship Diagram => http://www.information-management-architect.com/entity-relationship-diagram.html
 - Norwalk Aberdeen: Entity-Relationsip Diagrams => https://www.youtube.com/watch?v=c0_9Y8QAstg
